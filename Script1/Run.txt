@@ -1,0 +1,4 @@
+./countFiles.sh Downloads/ .txt
+./countFiles.sh Downloads/ .pdf
+./countFiles.sh Downloads/ .h
+./countFiles.sh Downloads/2017CS1037_2017CS10378_ass1/ .zip
