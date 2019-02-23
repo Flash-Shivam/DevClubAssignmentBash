@@ -1,0 +1,3 @@
+shivam:x:100:1000:Shivam Jadhav:bash/
+shourya:x:100:1000:Shourya Aggarwal:bash/
+shivamm:x:100:1000:ShivamJadhav:bash/
