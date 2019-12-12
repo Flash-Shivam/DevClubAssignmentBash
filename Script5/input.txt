@@ -1,0 +1,7 @@
+<title val="my assignment"/>
+<body style="goodstyle">
+<section>
+This is my submission for COL100 assignment. No one should copy it.
+</section>
+<name val="Ananye">
+</body>
